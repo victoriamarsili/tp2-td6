@@ -1,0 +1,11 @@
+# Ignorar la carpeta TP2_Datos
+TP2_Datos/
+
+# Ignorar archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación
+*.log
+*.out
+*.class
